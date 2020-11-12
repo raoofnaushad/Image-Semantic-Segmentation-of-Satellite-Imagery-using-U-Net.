@@ -4,7 +4,7 @@
 Image Semantic Segmentation of Satellite Imagery using U-Net. Image segmentation using U-Net architecture on Satellite Imagery with the help of fast.ai framework
 
 
-Read more about it in this [blog](https://medium.com/@raoofnaushad7/image-semantic-segmentation-of-satellite-imagery-using-u-net-e99ae13cf464)
+Read more about it in this [blog](https://raoofnaushad7.medium.com/image-semantic-segmentation-of-satellite-imagery-using-u-net-e99ae13cf464)
 
 
 
